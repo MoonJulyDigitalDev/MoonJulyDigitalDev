@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m @MoonJulyDigitalDev
+- ![..](https://cdn-icons-gif.flaticon.com/17843/17843193.gif) Hi, I’m @MoonJulyDigitalDev
 - 👀 I’m interested in Games, Animes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
