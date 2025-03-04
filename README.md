@@ -15,4 +15,5 @@
 ## Contatos marciapatriciam22@gmail.com 
 <p align="center">
   <img width="100" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="Icone de formação CSS3">
+  <img width="100" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="icone de formação html">
 </p>
