@@ -1,6 +1,7 @@
+<h1><img src="https://github.com/MoonJulyDigitalDev/MoonJulyDigitalDev/blob/main/perfil_gamer.png?raw=true" alt="foto do perfil"></h1>
 
 
-- <img width="30" src="https://cdn-icons-gif.flaticon.com/17843/17843193.gif" alt="icon01"> Hi, I’m @MoonJulyDigitalDev
+- <img width="30" src="" alt="icon01"> Hi, I’m @MoonJulyDigitalDev
 - 👀 I’m interested in Games, Animes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
