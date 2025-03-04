@@ -23,6 +23,6 @@
 ## Em formação.
 <p align="center">
   <img width="100" src="https://w7.pngwing.com/pngs/481/900/png-transparent-kotlin-programming-android-app-development-mobile-3d-icon-thumbnail.png" alt="Icone de formação Kotlin"> 
-  <img width="100" src="https://w7.pngwing.com/pngs/588/733/png-transparent-js-logo-javascript-thumbnail.png" alt="Icone de formação Javascript"> 
+  <img width="100" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="Icone de formação Javascript"> 
   <img width="100" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-logos-icons-1720088.png?f=webp" alt="Icone de formação Java"> 
 </p>
