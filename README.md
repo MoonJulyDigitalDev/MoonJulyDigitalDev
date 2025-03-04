@@ -1,4 +1,4 @@
-<center><h1>Moon July</h1></center>
+<h1 align="center">Moon July</h1>
 
 
 
