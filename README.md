@@ -2,7 +2,7 @@
 
 <p align="center">
 
-- <img width="80" src="https://cdn-icons-gif.flaticon.com/17843/17843193.gif" alt="icon01"> Hi, I’m @MoonJulyDigitalDev
+- <img width="30" src="https://cdn-icons-gif.flaticon.com/17843/17843193.gif" alt="icon01"> Hi, I’m @MoonJulyDigitalDev
 - 👀 I’m interested in Games, Animes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
